@@ -1,3 +1,4 @@
+## 这里有一篇介绍文章 https://blog.csdn.net/Shingle_/article/details/52653621
 ## Introduction
 
 It is the generic golden program for deep learning with [TensorFlow](https://github.com/tensorflow/tensorflow).
